@@ -61,7 +61,7 @@ Created for both **tactical players** and **modding enthusiasts**, this tool pro
 
 ### 🖼 Visual Preview
 
-![ESP System](https://tse1.mm.bing.net/th?id=OIP.EXAMPLE1&pid=Api)  
+![ESP System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoZvBHnrBM6uc5qdarZm7j59-hqSsZp8N8w&s)  
 *Track players, cars, and staff through walls with full overlay detail.*
 
 ![Vehicle Menu UI](https://i.ytimg.com/vi/a0Uuxl93Y2o/maxresdefault.jpg)  
